@@ -1,0 +1,9 @@
+Monitory seminar 5th March- Health, Wellbeing and Technology.
+-Public tenderness (new Finnish program)
+
+http://mars.cs.utu.fi/taltioni_codefest/
+Hardware virtualization is disabled on this PC. You must enable it through the BIOS settings. For more information, see MSDN article at http://go.microsoft.com/fwlink/?LinkId=252010
+http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj863509(v=vs.105).aspx
+
+File picker allows to use existing implemented functionality, like sharing capabilities (includes email, social networks, etc.). Our application can share as a target or as a source. Focus on the best job you can do.
+Semantic zoom allows any app to structure its information in categories that can be shown as a classification. THink of the application concept.
